@@ -1,4 +1,4 @@
-# Tabs-Switing
+# Tab-Switching
 
 This is a simple JavaScript code snippet that demonstrates how to create tab switching functionality using the DOMContentLoaded event and event delegation. When a user clicks on a tab, the corresponding tab content is displayed while hiding the others.
 
